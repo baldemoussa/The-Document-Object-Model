@@ -1,6 +1,6 @@
 # SBA 5: The Document Object Model
 
-## By Mamadou Moussa Balde
+## By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
 
 This is one page, `index.html`, titled "Interactive Personal Blog". It stores blog posts in this browser under the `localStorage` key `posts`. There is no server and no install step. Bootstrap 5.3 loads from the internet, so the page needs a network connection. Open `index.html` in a browser.
 
